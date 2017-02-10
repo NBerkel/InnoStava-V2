@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">InnoStaVa</string>
+    <string name="title_activity">InnoStaVa</string>
+
+    <string name="v1_1">Keskittymistä vaativa yksin työskentely</string>
+    <string name="v1_2">Ratkaisukehitys tiimityönä</string>
+    <string name="v1_3">Ratkaisukehitys ad hoc</string>
+    <string name="v1_4">Tiimipalaverit</string>
+    <string name="v1_5">Kommunikaatio asiakkaiden ja yhteistyökumppaneiden kanssa</string>
+    <string name="v1_6">Lounas, kahvitauko ja muut tauot</string>
+    <string name="v1_7">Johtoryhmätyöskentely</string>
+    <string name="v1_8">Etätyöskentely</string>
+    <string name="v1_9">Jokin muu tilanne</string>
+
+    <string name="v2_1">Tapaaminen yrityksen tiloissa</string>
+    <string name="v2_2">Puhelin</string>
+    <string name="v2_3">Skype tai muu videoneuvottelu</string>
+    <string name="v2_4">Tapaaminen toisaalla</string>
+
+    <string name="v3_1">Oma työpiste</string>
+    <string name="v3_2">Jonkun toisen työpiste isossa huoneessa</string>
+    <string name="v3_3">Jonkun toisen työpiste pienessä huoneessa</string>
+    <string name="v3_4">Laavu</string>
+    <string name="v3_5">Puhelinkoppi</string>
+    <string name="v3_6">Puro</string>
+    <string name="v3_7">Tunturimaja</string>
+    <string name="v3_8">Puiston penkki</string>
+    <string name="v3_9">Yhteinen taukotila aulassa</string>
+    <string name="v3_10">Kokoushuone</string>
+
+    <string name="v4_1">Juha Aalto</string>
+    <string name="v4_2">Pekka Korpela</string>
+    <string name="v4_3">Mikko Laukka</string>
+    <string name="v4_4">Mikko Similä</string>
+    <string name="v4_5">Kati Kyyrönen</string>
+    <string name="v4_6">Tuomas Keränen</string>
+    <string name="v4_7">Henri Kuivala</string>
+    <string name="v4_8">Jukka Vaarala</string>
+    <string name="v4_9">Riikka Henriksson</string>
+    <string name="v4_10">Mika Vanhanen</string>
+
+    <string name="v5_1">Keskittymistä</string>
+    <string name="v5_2">Kommunikaatiota</string>
+    <string name="v5_3">Häiriötöntä työskentelyä</string>
+    <string name="v5_4">Ongelmanratkaisua</string>
+    <string name="v5_5">Uuden tiedon tai tuotteen tuottamista</string>
+    <string name="v5_6">Innovointia</string>
+    <string name="v5_7">Asioiden esittämistä</string>
+    <string name="v5_8">Yksityisyyttä</string>
+    <string name="v5_9">Tukiko yhteisöllinen vaiheistus työskentelyä?</string>
+
+
+    <string name="instructions_v1">Valitse tilanne</string>
+    <string name="instructions_v2">Valitse tilanne asiakastapaamiselle</string>
+    <string name="instructions_v3">Valitse tila</string>
+    <string name="instructions_v4">Kenen kanssa?</string>
+    <string name="instructions_v5">Tukiko tila ...?</string>
+    <string name="instructions_v6">Milloin</string>
+    <string name="instructions_v6_2">Kesto</string>
+    <string name="instructions_v7">Vapaa kommentti</string>
+
+    <string name="likert_min">not at all</string>
+    <string name="likert_max">very much</string>
+
+    <string name="next">seuraava</string>
+    <string name="complete">valmis</string>
+
+    <string name="on">ei koske tilannetta</string>
+    <string name="off">ei koske tilannetta</string>
+
+
+</resources>

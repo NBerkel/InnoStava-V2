@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="plugin_innostava"
+    android:title="@string/app_name">
+
+    <CheckBoxPreference
+        android:key="status_plugin_innostava"
+        android:defaultValue="false"
+        android:persistent="true"
+        android:summary="Activate/deactivate plugin" />
+
+    <EditTextPreference
+        android:defaultValue="0"
+        android:inputType="numberDecimal"
+        android:key="group"
+        android:persistent="true"
+        android:summary="Assigned study group" />
+
+</PreferenceScreen>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text="@string/instructions_v4"
+            android:textAppearance="@android:style/TextAppearance.Large" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="16dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical">
+
+
+                <ImageView
+                    android:src="@mipmap/juha"
+                    android:maxHeight="40dp"
+                    android:maxWidth="40dp"
+                    android:layout_height="100dp"
+                    android:layout_width="100dp" />
+
+                <CheckBox
+                    android:id="@+id/v4_1"
+                    android:text="@string/v4_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical">
+
+
+                <ImageView
+                    android:src="@mipmap/pekka"
+                    android:maxHeight="40dp"
+                    android:maxWidth="40dp"
+                    android:layout_height="100dp"
+                    android:layout_width="100dp" />
+
+                <CheckBox
+                    android:id="@+id/v4_2"
+                    android:text="@string/v4_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical">
+
+
+                <ImageView
+                    android:src="@mipmap/mikko_l"
+                    android:maxHeight="40dp"
+                    android:maxWidth="40dp"
+                    android:layout_height="100dp"
+                    android:layout_width="100dp" />
+
+                <CheckBox
+                    android:id="@+id/v4_3"
+                    android:text="@string/v4_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical">
+
+
+                <ImageView
+                    android:src="@mipmap/mikko_s"
+                    android:maxHeight="40dp"
+                    android:maxWidth="40dp"
+                    android:layout_height="100dp"
+                    android:layout_width="100dp" />
+
+                <CheckBox
+                    android:text="@string/v4_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/v4_4"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical">
+
+
+                <ImageView
+                    android:src="@mipmap/kati"
+                    android:maxHeight="40dp"
+                    android:maxWidth="40dp"
+                    android:layout_height="100dp"
+                    android:layout_width="100dp" />
+
+                <CheckBox
+                    android:text="@string/v4_5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/v4_5"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical">
+
+
+                <ImageView
+                    android:src="@mipmap/tuomas"
+                    android:maxHeight="40dp"
+                    android:maxWidth="40dp"
+                    android:layout_height="100dp"
+                    android:layout_width="100dp" />
+
+                <CheckBox
+                    android:text="@string/v4_6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/v4_6"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:src="@mipmap/henri"
+                    android:maxHeight="40dp"
+                    android:maxWidth="40dp"
+                    android:layout_height="100dp"
+                    android:layout_width="100dp" />
+
+                <CheckBox
+                    android:text="@string/v4_7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/v4_7"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical">
+
+
+                <ImageView
+                    android:src="@mipmap/jukka"
+                    android:maxHeight="40dp"
+                    android:maxWidth="40dp"
+                    android:layout_height="100dp"
+                    android:layout_width="100dp" />
+
+                <CheckBox
+                    android:text="@string/v4_8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/v4_8"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical">
+
+
+                <ImageView
+                    android:src="@mipmap/riikka"
+                    android:maxHeight="40dp"
+                    android:maxWidth="40dp"
+                    android:layout_height="100dp"
+                    android:layout_width="100dp" />
+
+                <CheckBox
+                    android:text="@string/v4_9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/v4_9"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical">
+
+
+                <ImageView
+                    android:src="@mipmap/mika"
+                    android:maxHeight="40dp"
+                    android:maxWidth="40dp"
+                    android:layout_height="100dp"
+                    android:layout_width="100dp" />
+
+                <CheckBox
+                    android:text="@string/v4_10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/v4_10"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/esm_buttons_controls"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+
+            <Button
+                android:id="@+id/v4_next"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="@string/next" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
